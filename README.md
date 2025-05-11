@@ -21,7 +21,6 @@ mts_regression_competition/
 ├── README.md                  # данный файл
 ├── image.png                  # скриншот submission
 ├── teta-ml-2.ipynb            # файл с решением
-├── teta-ml-2.html             # файл с решением формата html для удобного чтения
 │
 └── data/                      # папка для данных
     ├── train.csv              # обучающие данные
